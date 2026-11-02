@@ -1,0 +1,2 @@
+# Closed-loop-control-of-pathological-neural-oscillations-using-Simulink
+The objective of this mini project is to develop a conceptual closed-loop control framework in MATLAB/Simulink for studying the suppression of pathological neural oscillations. The neural dynamics are represented using the FitzHugh–Nagumo model, and a feedback pathway is proposed to detect oscillatory activity and adjust a model stimulation input.
